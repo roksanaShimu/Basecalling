@@ -7,3 +7,7 @@ to make the conversion faster and more power efficient to enable embedded operat
 
 ![viterbi](/viterbi.png)
 
+[Paper](https://ieeexplore.ieee.org/abstract/document/8052869/) 
+```
+Hossain, R., Mittmann, R., Ghafar-Zadeh, E., Messier, G. G., & Magierowski, S. (2017, August). GPU base calling for DNA strand sequencing. In 2017 IEEE 60th International Midwest Symposium on Circuits and Systems (MWSCAS) (pp. 96-99). IEEE.
+```
