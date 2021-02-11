@@ -1,0 +1,24 @@
+
+
+Final_bcalling_updated
+
+1. thread_read.cu    				lines: 334
+2. viterbi_TcBk_v1.cuh   			lines: 841
+3. viterbi_TcBk_v1_1_block_multi_events.cuh 	lines: 477
+4. thread_reading_binary_file.cuh 		lines: 84
+5. sequence.cuh 				lines: 358
+6. reading_tcb_files.cuh 			lines: 180
+7. predifined_values.cuh 			lines: 35
+8. pore_model.cuh  				lines: 175
+9. kmer.cuh  					lines: 120
+10.device_memory_allocation.cuh  		lines: 168
+11.bcall-i.h  					lines: 254
+12.bcall.h  					lines: 143
+
+Total line: 3169
+
+PRM -parallel
+
+
+
+
